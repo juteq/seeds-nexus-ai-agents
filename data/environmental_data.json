@@ -1,0 +1,76 @@
+{
+  "global_temperature": {
+    "current_anomaly": 1.1,
+    "unit": "degrees_celsius",
+    "baseline": "pre_industrial_average",
+    "trend": "increasing"
+  },
+  "renewable_energy": {
+    "solar_capacity_2023": 1419,
+    "wind_capacity_2023": 906,
+    "hydro_capacity_2023": 1392,
+    "unit": "gigawatts",
+    "solar_cost_reduction": 85,
+    "wind_cost_reduction": 70,
+    "cost_unit": "percent_since_2010"
+  },
+  "carbon_emissions": {
+    "global_co2_2023": 37.4,
+    "unit": "billion_tonnes",
+    "target_reduction": 45,
+    "target_year": 2030,
+    "baseline_year": 2010
+  },
+  "sea_level": {
+    "current_rise_rate": 3.4,
+    "unit": "mm_per_year",
+    "total_rise_since_1993": 101.2,
+    "projected_rise_2100": 430
+  },
+  "energy_efficiency": {
+    "building_sector_potential": 30,
+    "transport_sector_potential": 25,
+    "industry_sector_potential": 35,
+    "unit": "percent_energy_savings"
+  },
+  "countries": [
+    {
+      "name": "China",
+      "renewable_capacity": 1161,
+      "co2_emissions": 11.47,
+      "population": 1412
+    },
+    {
+      "name": "United States",
+      "renewable_capacity": 352,
+      "co2_emissions": 5.01,
+      "population": 331
+    },
+    {
+      "name": "India",
+      "renewable_capacity": 163,
+      "co2_emissions": 2.65,
+      "population": 1380
+    },
+    {
+      "name": "Germany",
+      "renewable_capacity": 132,
+      "co2_emissions": 0.75,
+      "population": 83
+    }
+  ],
+  "climate_indicators": {
+    "arctic_ice_loss": 13,
+    "forest_loss_annual": 10,
+    "species_extinction_rate": 1000,
+    "ocean_ph_change": -0.1,
+    "extreme_weather_events_2023": 432
+  },
+  "sustainable_solutions": {
+    "electric_vehicles_growth": 35,
+    "battery_cost_reduction": 90,
+    "green_hydrogen_projects": 680,
+    "carbon_capture_capacity": 40,
+    "reforestation_target": 350
+  }
+}
