@@ -128,6 +128,18 @@ ENV/
 env.bak/
 venv.bak/
 
+# Virtual environments (specific to this project)
+langchain_env/
+test_env/
+
+# Additional common virtual environment names
+.virtualenv
+virtualenv/
+.conda/
+conda_env/
+python_env/
+py_env/
+
 # Spyder project settings
 .spyderproject
 .spyproject
