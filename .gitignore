@@ -255,3 +255,5 @@ checkpoints/
 outputs/
 results/
 experiments/
+
+test*.py
